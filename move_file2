@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+bash ./0-transfer_file ./$1 54.90.50.38 ubuntu 
